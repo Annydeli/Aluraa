@@ -28,8 +28,19 @@ border-radius: 5px;
 padding: 1em;
 color: var(--branco-principal);
 display: block;
+text-decoration: none;
+margin-bottom: 1em;
 }
 .botao__secundário{
     background-color: transparent;
     border: 2px solid var(--branco-principal);
+}
+.container_descrição{
+    padding: 2em;
+}
+.container__imagem{
+    margin: 1em 0 2em 0;
+}
+.container__caixa{
+    margin: 0 6em;
 }
